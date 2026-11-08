@@ -15,7 +15,7 @@ export const site = {
   /** Set NEXT_PUBLIC_SITE_URL in production; used for canonical URLs, sitemap and social previews. */
   url: (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000").replace(/\/$/, ""),
   contact: {
-    email: "arslanarshad1018@gmail.com",
+    email: "contact@thecodevelocity.com",
   },
   founder: {
     name: "Arslan Arshad",
